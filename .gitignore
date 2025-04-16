@@ -1,0 +1,45 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore compiled files
+*.class
+*.o
+*.pyc
+
+# Ignore environment files
+.env
+
+# Ignore temporary files
+*.uploads
+*.swp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore dependency directories
+vendor/
+
+# Ignore package managers' cache
+.npm/
+.yarn/
+
+# Ignore documentation files
+docs/
+
+# Ignore all text files
+*.txt
+
+# Ignore all markdown files
+*.md
